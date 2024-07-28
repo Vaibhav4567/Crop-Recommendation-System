@@ -1,6 +1,3 @@
-Sure! Here is the updated README.md file with some crop-related icons added:
-
-```markdown
 # 🌾 Crop Recommendation System 🌾
 
 This project aims to recommend the most suitable crop for cultivation based on specific soil and weather conditions using machine learning algorithms.
